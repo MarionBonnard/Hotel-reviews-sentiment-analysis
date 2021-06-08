@@ -1,2 +1,0 @@
-# Hotel-reviews-sentiment-analysis
-
